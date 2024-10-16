@@ -10,6 +10,12 @@ body {
 .navlinks {
     color: white;
 }
-.dropdownMenu {
-    position: relative;
+.btn {
+    width: 300px;
+}
+.topMenu {
+    margin-top: -20px;
+}
+.nav-bar-collapse {
+    text-align: left;
 }
