@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-Y-Desktop-US-v2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.mid-text {
+    color: white;
+}
+.navlinks {
+    color: white;
+}
+.dropdownMenu {
+    position: relative;
+}
